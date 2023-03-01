@@ -1,14 +1,11 @@
-# 基于SpringBoot+Layui的足球社交管理系统
+# 基于SpringBoot+Layui的开拓足球项目
 
 ## 数据库
 
 ## 技术栈
 
-- 数据库：MySQL 5.7.33
-- 后端技术：SpringBoot 2.3.0，MyBatisPlus
-- 数据连接池：Druid
-- 前端技术：Layui，Ajax，Json等
-- Web容器：Apache Tomcat 8
-- 项目管理工具：Maven 3.6.0
-- 版本控制工具：Git
-- 开发工具：IDEA
+## 项目结构
+![img.png](img.png)
+- ktzq-comm:
+
+## Java-web版本
