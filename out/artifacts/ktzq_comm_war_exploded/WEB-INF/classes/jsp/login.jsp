@@ -18,13 +18,13 @@
   <!-- 导入登录页面的样式 -->
   <link rel="stylesheet" href="../css/login.css">
   <!-- 导入轮播图的js -->
-  <script src="focus.js"></script>
+  <script src="../js/focus.js"></script>
   <!-- 导入animate.js -->
-  <script src="animate.js"></script>
+  <script src="../js/animate.js"></script>
   <!-- 导入时间的js -->
-  <script src="time.js"></script>
+  <script src="../js/time.js"></script>
   <!-- 导入登录的js -->
-  <script src="index.js"></script>
+  <script src="../js/login.js"></script>
 </head>
 
 <body>
@@ -83,13 +83,13 @@
         <div class="input_box"></div>
 
         <!-- 修改密码 -->
-        <a href="jsp/change_pwd.jsp" class="forget_pwd">修改密码</a>
+        <a href="change_pwd.jsp" class="forget_pwd">修改密码</a>
 
         <!-- 登录按钮 -->
         <input type="submit" class="click_login" value="登录"/>
 
         <!-- 未注册 -->
-        <a href="jsp/register.jsp" class="to_register">未注册，先去注册</a>
+        <a href="register.jsp" class="to_register">未注册，先去注册</a>
       </form>
 
       <!-- 其他登录方式 -->
@@ -98,8 +98,9 @@
         <a href="javascript:;" class="icon qq"></a>
         <a href="javascript:;" class="icon wechat"></a>
       </div>
+
       <!-- 作者 -->
-      <h3 class="author">-黄弋峰-</h3>
+      <h3 class="author">-Directed By Elvira-</h3>
     </div>
   </main>
 </div>
