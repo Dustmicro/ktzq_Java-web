@@ -55,11 +55,11 @@
           <!-- 右侧按钮 -->
           <a href="javascript:;" class="arrow-r"></a>
           <!-- 轮播图的图片 -->
-          <ul>
-            <li><img src="../images/1.jpg" alt=""></li>
-            <li><img src="../images/2.png" alt=""></li>
-            <li><img src="../images/3.png" alt=""></li>
-          </ul>
+<%--          <ul>--%>
+<%--            <li><img src="../images/1.jpg" alt=""></li>--%>
+<%--            <li><img src="../images/2.png" alt=""></li>--%>
+<%--            <li><img src="../images/3.png" alt=""></li>--%>
+<%--          </ul>--%>
           <!-- 小圆点 -->
           <ol class="circle">
           </ol>
